@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Vic
 happy, free, confused and lonely in the best way.
 
-- 🌱 I’m currently learning Mobile App Programming 
 - 👯 I’m looking to collaborate on research and developing software applications 
 - 😄 Pronouns: she/her 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vsbriceno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/victoriasbp/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/victoriapsb?si=ec3fc07a8e56494e)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vsbriceno)  [<img 
+                                                                                                                                        src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/victoriapsb?si=ec3fc07a8e56494e)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vsbriceno&show_icons=true&count_private=true)  
 
@@ -22,6 +22,9 @@ happy, free, confused and lonely in the best way.
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Ruby" width="40px" src="https://camo.githubusercontent.com/3848b05c57bc263147c21902c7ce532ae7bc5f485450c26f79a6d77580f703f6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7261696c732f7261696c732d706c61696e2e737667" />
 
+<img align="left" alt="Docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
+<img align="left" alt="APIGetway" width="40px" src="https://www.clipartmax.com/png/middle/195-1955710_api-gateway-icon-assertible-logo-aws-api-gateway-logo.png" />
 
+![Profile views](https://gpvc.arturio.dev/vsbriceno)  
 
 
