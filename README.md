@@ -1,10 +1,3 @@
-### Hi there 👋, I'm Vic
-happy, free, confused and lonely in the best way.
-
-- 👯 I’m looking to collaborate on research and developing software applications 
-- 😄 Pronouns: she/her 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vsbriceno)  [<img 
                                                                                                                                         src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/victoriapsb?si=ec3fc07a8e56494e)  
 
